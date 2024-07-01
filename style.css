@@ -1,0 +1,6 @@
+.container{
+    box-sizing: border-box;
+    margin: 30px;
+    padding: 10px;
+    background-color: aliceblue;
+}
